@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7FC2A0F7D8fbd08a6e1bD2Ba322Bb6c1Fe8706bB",
+  "SCAN_LINK": "https://polygonscan.com/address/0x7fc2a0f7d8fbd08a6e1bd2ba322bb6c1fe8706bb",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Boobs Pixelated",
+  "SYMBOL": "BPX",
+  "MAX_SUPPLY": 676,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/boobs-pixelated",
+  "SHOW_BACKGROUND": true
+}
